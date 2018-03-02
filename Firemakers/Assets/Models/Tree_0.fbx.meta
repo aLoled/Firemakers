@@ -1,20 +1,34 @@
 fileFormatVersion: 2
-guid: a1a3aa1d49e25584a9db1cacd3616068
-timeCreated: 1519989148
+guid: c125a1df3116ad64d88d01bf18697386
+timeCreated: 1520006034
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: Stra_e
-    2100002: Markierung
-    2100004: B_rgersteig
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Plane
-    7400000: Default Take
-    9500000: //RootNode
+    100000: Branch
+    100002: Leaf_Big
+    100004: Leaf_Small
+    100006: //RootNode
+    100008: Trunk
+    400000: Branch
+    400002: Leaf_Big
+    400004: Leaf_Small
+    400006: //RootNode
+    400008: Trunk
+    2100000: Trunk
+    2100002: Leaf
+    2300000: Branch
+    2300002: Leaf_Big
+    2300004: Leaf_Small
+    2300006: Trunk
+    3300000: Branch
+    3300002: Leaf_Big
+    3300004: Leaf_Small
+    3300006: Trunk
+    4300000: Branch
+    4300002: Leaf_Small
+    4300004: Leaf_Big
+    4300006: Trunk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -89,7 +103,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

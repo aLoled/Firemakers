@@ -1,48 +1,18 @@
 fileFormatVersion: 2
-guid: 22d6e9dff334c384e8a88d2da08d7ced
-timeCreated: 1519991683
+guid: bb6fd740572b01b4b9b056fb10839b1e
+timeCreated: 1520005991
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Circle
-    100002: Circle_001
-    100004: Circle_002
-    100006: Circle_003
-    100008: Circle_004
-    100010: Plane_004
-    100012: //RootNode
-    400000: Circle
-    400002: Circle_001
-    400004: Circle_002
-    400006: Circle_003
-    400008: Circle_004
-    400010: Plane_004
-    400012: //RootNode
-    2100000: unnamed
-    2100002: Stra_e
-    2100004: B_rgersteig
-    2100006: Markierung
-    2300000: Circle
-    2300002: Circle_001
-    2300004: Circle_002
-    2300006: Circle_003
-    2300008: Circle_004
-    2300010: Plane_004
-    3300000: Circle
-    3300002: Circle_001
-    3300004: Circle_002
-    3300006: Circle_003
-    3300008: Circle_004
-    3300010: Plane_004
-    4300000: Circle_004
-    4300002: Circle_003
-    4300004: Circle_002
-    4300006: Circle_001
-    4300008: Circle
-    4300010: Plane_004
-    7400000: Default Take
-    9500000: //RootNode
+    100000: //RootNode
+    400000: //RootNode
+    2100000: "Stra\xDFe"
+    2100002: "B\xFCrgersteig"
+    2100004: Markierung
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Plane.004
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -117,7 +87,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

@@ -1,52 +1,47 @@
 fileFormatVersion: 2
-guid: 01396a3cb403c98428bc05ec19e25db3
-timeCreated: 1519984182
+guid: 6ae2e3a6fb0d96642a0f2c85258644e3
+timeCreated: 1520006018
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Branch
-    100002: Leaf_Big
-    100004: Leaft_Small
-    100006: //RootNode
-    100008: Trunk
-    100010: Leaf_Small
-    400000: Branch
-    400002: Leaf_Big
-    400004: Leaft_Small
-    400006: //RootNode
-    400008: Trunk
-    400010: Leaf_Small
-    2100000: Trunk
-    2100002: Leaf
-    2300000: Branch
-    2300002: Leaf_Big
-    2300004: Leaft_Small
-    2300006: Trunk
-    2300008: Leaf_Small
-    3300000: Branch
-    3300002: Leaf_Big
-    3300004: Leaft_Small
-    3300006: Trunk
-    3300008: Leaf_Small
-    4300000: Branch
-    4300002: Leaft_Small
-    4300004: Leaf_Big
-    4300006: Trunk
-    4300008: Leaf_Small
-    7400000: Default Take
-    9500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Leaf
-    second: {fileID: 2100000, guid: c770f6bdd63718e4d91940e8fabcedab, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Trunk
-    second: {fileID: 2100000, guid: d811cdff46bff1a418bb5408f14e5d4e, type: 2}
+    100000: Circle
+    100002: Circle.001
+    100004: Circle.002
+    100006: Circle.003
+    100008: Circle.004
+    100010: Plane.004
+    100012: //RootNode
+    400000: Circle
+    400002: Circle.001
+    400004: Circle.002
+    400006: Circle.003
+    400008: Circle.004
+    400010: Plane.004
+    400012: //RootNode
+    2100000: No Name
+    2100002: "Stra\xDFe"
+    2100004: "B\xFCrgersteig"
+    2100006: Markierung
+    2300000: Circle
+    2300002: Circle.001
+    2300004: Circle.002
+    2300006: Circle.003
+    2300008: Circle.004
+    2300010: Plane.004
+    3300000: Circle
+    3300002: Circle.001
+    3300004: Circle.002
+    3300006: Circle.003
+    3300008: Circle.004
+    3300010: Plane.004
+    4300000: Circle.004
+    4300002: Circle.003
+    4300004: Circle.002
+    4300006: Circle.001
+    4300008: Circle
+    4300010: Plane.004
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -76,7 +71,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.25
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
@@ -120,7 +115,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

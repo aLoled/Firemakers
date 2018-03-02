@@ -1,20 +1,18 @@
 fileFormatVersion: 2
-guid: 9d2fe8498e14f024c8b437afac3fa736
-timeCreated: 1519990707
+guid: 7458a5346d0112844bc07a4bc49607d8
+timeCreated: 1520005969
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Stra_e
-    2100002: B_rgersteig
+    2100000: "Stra\xDFe"
+    2100002: "B\xFCrgersteig"
     2100004: Markierung
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Plane_004
-    7400000: Default Take
-    9500000: //RootNode
+    4300000: Plane.004
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -89,7 +87,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
